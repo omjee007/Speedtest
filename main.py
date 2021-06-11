@@ -41,3 +41,5 @@ def pingonly():
 
 # Calling function pingonly
 pingonly()
+# calling funtion speedonly
+speedonly()
